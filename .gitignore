@@ -1,0 +1,21 @@
+# Backend
+amortization-backend/target/
+amortization-backend/*.class
+amortization-backend/*.jar
+amortization-backend/*.war
+amortization-backend/.idea/
+amortization-backend/*.iml
+amortization-backend/.settings/
+amortization-backend/.project
+amortization-backend/.classpath
+amortization-backend/.vscode/
+
+# Frontend
+amortization-frontend/node_modules/
+amortization-frontend/dist/
+amortization-frontend/.vite/
+amortization-frontend/*.local
+
+# OS
+.DS_Store
+Thumbs.db
